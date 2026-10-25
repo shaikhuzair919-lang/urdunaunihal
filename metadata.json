@@ -1,0 +1,6 @@
+{
+  "name": "اردو نونہال - Urdu Kids Learning",
+  "description": "Interactive Urdu Nastaliq learning app for kids with illustrated vocabulary, 2-to-5 letter levels, quizzes, audio pronunciation, and real-time parent progress monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

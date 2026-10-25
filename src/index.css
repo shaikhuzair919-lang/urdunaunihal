@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Fredoka', 'Noto Nastaliq Urdu', 'Gulzar', 'Plus Jakarta Sans', system-ui, sans-serif;
+  }
+}
+
+@layer utilities {
+  .font-nastaliq {
+    font-family: 'Noto Nastaliq Urdu', 'Gulzar', serif;
+    line-height: 1.9;
+  }
+  .font-kids {
+    font-family: 'Fredoka', 'Noto Nastaliq Urdu', 'Gulzar', 'Plus Jakarta Sans', system-ui, sans-serif;
+  }
+}
+
+.urdu-nastaliq-text {
+  font-family: 'Noto Nastaliq Urdu', 'Gulzar', serif;
+  line-height: 2.1;
+  letter-spacing: 0;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+[dir="rtl"] {
+  text-align: right;
+  direction: rtl;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}

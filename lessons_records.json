@@ -1,0 +1,280 @@
+[
+  {
+    "id": "lesson_ai_mvny08rt",
+    "titleUrdu": "صبح کی سیر",
+    "titleEnglish": "Morning Walk",
+    "level": "۲ اور ۳ حرفی الفاظ",
+    "assignedTo": "all",
+    "createdAt": 1792939702889,
+    "contentUrdu": "صُبْحِ صادِق کا وَقْت ہے۔ اَب سَب اَٹْھ جاؤ۔ حَمْد پڑھو اور باغ کی سَیْر کو جاؤ۔ تازی ہَوا سے دِل خُوش ہوتا ہے۔ صُبْح کی سَیْر صِحَت کے لِیے اَچّھی ہے۔",
+    "contentEnglish": "It is the time of dawn. Now everyone wake up. Recite Hamd and go for a walk in the garden. The heart feels happy with fresh air. A morning walk is good for health.",
+    "vocabulary": [
+      {
+        "word": "صُبْح",
+        "meaning": "Morning",
+        "letters": [
+          "ص",
+          "ب",
+          "ح"
+        ]
+      },
+      {
+        "word": "سَیْر",
+        "meaning": "Walk/Tour",
+        "letters": [
+          "س",
+          "ی",
+          "ر"
+        ]
+      },
+      {
+        "word": "بَاغ",
+        "meaning": "Garden",
+        "letters": [
+          "ب",
+          "ا",
+          "غ"
+        ]
+      },
+      {
+        "word": "ہَوا",
+        "meaning": "Air",
+        "letters": [
+          "ہ",
+          "و",
+          "ا"
+        ]
+      }
+    ],
+    "quizQuestion": {
+      "questionUrdu": "صُبْح کی سَیْر کس کے لِیے اَچّھی ہے؟",
+      "options": [
+        "کھانے کے لِیے",
+        "صِحَت کے لِیے",
+        "سونے کے لِیے"
+      ],
+      "correctIndex": 1
+    },
+    "readingStatus": {}
+  },
+  {
+    "id": "lesson_ai_mvnxzr78",
+    "titleUrdu": "بارش اور چمکتا سورج",
+    "titleEnglish": "Rain and the Shining Sun",
+    "level": "۲ اور ۳ حرفی الفاظ",
+    "assignedTo": "all",
+    "createdAt": 1792939680116,
+    "contentUrdu": "آسْمان پر کالے بادل ہیں۔ بادل سے آب برس رہی ہے۔ اب سورج چمک رہا ہے۔ سب خوش ہیں۔",
+    "contentEnglish": "There are black clouds in the sky. Water is falling from the clouds. Now the sun is shining. Everyone is happy.",
+    "vocabulary": [
+      {
+        "word": "آب",
+        "meaning": "Water",
+        "letters": [
+          "آ",
+          "ب"
+        ]
+      },
+      {
+        "word": "سب",
+        "meaning": "All/Everyone",
+        "letters": [
+          "س",
+          "ب"
+        ]
+      },
+      {
+        "word": "بادل",
+        "meaning": "Clouds",
+        "letters": [
+          "ب",
+          "ا",
+          "د",
+          "ل"
+        ]
+      }
+    ],
+    "quizQuestion": {
+      "questionUrdu": "آسمان پر اب کیا چمک رہا ہے؟",
+      "options": [
+        "چاند",
+        "سورج",
+        "ستارے"
+      ],
+      "correctIndex": 1
+    },
+    "readingStatus": {
+      "s_fatima": {
+        "isCompleted": false,
+        "quizScore": 0,
+        "studentName": "فاطمہ (Fatima)",
+        "isCurrentlyReading": true,
+        "lastReadTime": 1792939794091
+      }
+    }
+  },
+  {
+    "id": "lesson_ai_mvnxqr8s",
+    "titleUrdu": "سبق: پھل اور سبزیاں",
+    "titleEnglish": "Lesson: پھل اور سبزیاں",
+    "level": "۲ اور ۳ حرفی الفاظ",
+    "assignedTo": "all",
+    "createdAt": 1792939260268,
+    "contentUrdu": "صبح کا وقت بہت پیارا ہے۔ سورج کی کرنیں چمک رہی ہیں۔ بچے خوشی سے اسکول کا بستہ اٹھاتے ہیں اور دل لگا کر پڑھتے ہیں۔ استاد کی بات سننا اچھی عادت ہے۔",
+    "contentEnglish": "Morning time is very lovely. The sun rays are shining. Children happily pick up their school bag and study with heart. Listening to teacher is a good habit.",
+    "vocabulary": [
+      {
+        "word": "دِل",
+        "meaning": "احساسات کا مرکز (Heart)",
+        "letters": [
+          "د",
+          "ل"
+        ]
+      },
+      {
+        "word": "دِن",
+        "meaning": "سورج کا وقت (Day)",
+        "letters": [
+          "د",
+          "ن"
+        ]
+      },
+      {
+        "word": "سُورَج",
+        "meaning": "آفتاب (Sun)",
+        "letters": [
+          "س",
+          "و",
+          "ر",
+          "ج"
+        ]
+      }
+    ],
+    "quizQuestion": {
+      "questionUrdu": "صبح کے وقت کیا چمکتا ہے؟",
+      "options": [
+        "سورج (Sun)",
+        "چاند (Moon)",
+        "تارے (Stars)"
+      ],
+      "correctIndex": 0
+    },
+    "readingStatus": {
+      "s_fatima": {
+        "isCompleted": false,
+        "quizScore": 0,
+        "studentName": "فاطمہ (Fatima)",
+        "isCurrentlyReading": true,
+        "lastReadTime": 1792939634088
+      },
+      "s_ahmad": {
+        "isCompleted": false,
+        "quizScore": 0,
+        "studentName": "احمد (Ahmad)",
+        "isCurrentlyReading": true,
+        "lastReadTime": 1792939634746
+      }
+    }
+  },
+  {
+    "id": "lesson_bagh",
+    "titleUrdu": "سبق ۱: باغ کی سیر اور پھول",
+    "titleEnglish": "Lesson 1: Walk in the Garden",
+    "level": "۲ اور ۳ حرفی الفاظ",
+    "assignedTo": "all",
+    "createdAt": 1792931090246,
+    "contentUrdu": "آج کا دِن بہت اچھا ہے۔ باغ میں لال گُل کھلا ہے۔ ٹھنڈا آب پینا صحت کے لیے اچھا ہے۔ بچے مل کر کھیلتے ہیں۔",
+    "contentEnglish": "Today is a very good day. A red flower has bloomed in the garden. Drinking fresh water is good for health. Children play together.",
+    "vocabulary": [
+      {
+        "word": "دِن",
+        "meaning": "روز / اجالا (Day)",
+        "letters": [
+          "د",
+          "ن"
+        ]
+      },
+      {
+        "word": "گُل",
+        "meaning": "پھول (Flower)",
+        "letters": [
+          "گ",
+          "ل"
+        ]
+      },
+      {
+        "word": "آب",
+        "meaning": "پانی (Water)",
+        "letters": [
+          "آ",
+          "ب"
+        ]
+      }
+    ],
+    "quizQuestion": {
+      "questionUrdu": "باغ میں کس رنگ کا گل کھلا ہے؟",
+      "options": [
+        "لال (Red)",
+        "پیلا (Yellow)",
+        "نیلا (Blue)"
+      ],
+      "correctIndex": 0
+    },
+    "readingStatus": {
+      "s_fatima": {
+        "studentName": "فاطمہ (Fatima)",
+        "isCurrentlyReading": false,
+        "lastReadTime": 1792938325428,
+        "isCompleted": true,
+        "completedAt": 1792938170246,
+        "quizScore": 1
+      },
+      "s_ahmad": {
+        "studentName": "احمد (Ahmad)",
+        "isCurrentlyReading": false,
+        "lastReadTime": 0,
+        "isCompleted": false
+      }
+    }
+  },
+  {
+    "id": "lesson_sher_billi",
+    "titleUrdu": "سبق ۲: شیر اور چست بلی",
+    "titleEnglish": "Lesson 2: The Lion and the Cat",
+    "level": "۳ اور ۴ حرفی الفاظ",
+    "assignedTo": "all",
+    "createdAt": 1792920290246,
+    "contentUrdu": "شیر جنگل کا بڑا بادشاہ ہے۔ بلی بھی شیر کی خالہ کہلاتی ہے۔ دونوں چست اور تیز جانور ہیں۔",
+    "contentEnglish": "The lion is the king of the jungle. The cat is called the aunt of the lion. Both are sharp and quick animals.",
+    "vocabulary": [
+      {
+        "word": "شیر",
+        "meaning": "جنگل کا بادشاہ (Lion)",
+        "letters": [
+          "ش",
+          "ی",
+          "ر"
+        ]
+      },
+      {
+        "word": "بِلّی",
+        "meaning": "پالتو جانور (Cat)",
+        "letters": [
+          "ب",
+          "ل",
+          "ی"
+        ]
+      }
+    ],
+    "quizQuestion": {
+      "questionUrdu": "جنگل کا بادشاہ کون ہے؟",
+      "options": [
+        "شیر (Lion)",
+        "بندر (Monkey)",
+        "خرگوش (Rabbit)"
+      ],
+      "correctIndex": 0
+    },
+    "readingStatus": {}
+  }
+]
